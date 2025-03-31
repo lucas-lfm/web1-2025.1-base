@@ -1,6 +1,6 @@
-# Lista Prática de Exercícios 1 - Fundamentos de Programação com JavaScript
+# 🚀 Lista Prática de Exercícios 1 - Fundamentos de Programação com JavaScript
 
-## Exercício 1 – Conversor de Moedas
+## ▶️ Exercício 1 – Conversor de Moedas
 
 Você deve criar um sistema que leia um valor em reais (R$) e o converta para dólares (US$). Para isso, o programa deve utilizar a cotação atual do dólar informada pelo usuário.  
 O cálculo é feito através da fórmula:  
@@ -15,7 +15,7 @@ O cálculo é feito através da fórmula:
 
 ---
 
-## Exercício 2 – Cálculo do Quadrado de um Número
+## ▶️ Exercício 2 – Cálculo do Quadrado de um Número
 
 Você deve criar um sistema que leia um valor inteiro e calcule o seu quadrado.  
 O cálculo é feito multiplicando o número por ele mesmo.
@@ -28,7 +28,7 @@ O cálculo é feito multiplicando o número por ele mesmo.
 
 ---
 
-## Exercício 3 – Conversão de Polegadas para Centímetros
+## ▶️ Exercício 3 – Conversão de Polegadas para Centímetros
 
 Crie um programa que converta um valor em polegadas para centímetros.  
 Utilize a fórmula:  
@@ -42,7 +42,7 @@ Utilize a fórmula:
 
 ---
 
-## Exercício 4 – Cálculo da Circunferência de um Círculo
+## ▶️ Exercício 4 – Cálculo da Circunferência de um Círculo
 
 Desenvolva um programa que calcule o perímetro (circunferência) de um círculo, dado o valor do raio.  
 Utilize a fórmula:  
@@ -57,7 +57,7 @@ Utilize a fórmula:
 
 ---
 
-## Exercício 5 – Cálculo do Salário do Professor
+## ▶️ Exercício 5 – Cálculo do Salário do Professor
 
 Crie um programa que calcule o salário de um professor.  
 O salário é obtido multiplicando o valor da hora-aula pela quantidade de horas trabalhadas.
@@ -71,7 +71,7 @@ O salário é obtido multiplicando o valor da hora-aula pela quantidade de horas
 
 ---
 
-## Exercício 6 – Média Ponderada e Situação do Aluno
+## ▶️ Exercício 6 – Média Ponderada e Situação do Aluno
 
 Você deve criar um sistema que leia as notas de duas etapas de um semestre (N1 e N2) e calcule a média ponderada.  
 Os pesos são:  
@@ -91,7 +91,7 @@ Ao final, o programa deve informar a nota final e se o aluno está aprovado (not
 
 ---
 
-## Exercício 7 – Cálculo do IMC e Classificação do Peso
+## ▶️ Exercício 7 – Cálculo do IMC e Classificação do Peso
 
 Crie um programa que calcule o Índice de Massa Corporal (IMC) do usuário a partir dos dados de peso (kg) e altura (m) e, em seguida, informe em qual faixa de peso ele se encontra.  
 Utilize a seguinte classificação básica (valores exemplificativos):  
@@ -108,7 +108,7 @@ Utilize a seguinte classificação básica (valores exemplificativos):
 
 ---
 
-## Exercício 8 – Soma dos Números Primos
+## ▶️ Exercício 8 – Soma dos Números Primos
 
 Elabore um programa que receba *n* números inteiros positivos e exiba a soma daqueles que são primos.  
 *Dica:* Um número primo é aquele que possui exatamente dois divisores (1 e ele mesmo).
@@ -121,7 +121,7 @@ Elabore um programa que receba *n* números inteiros positivos e exiba a soma da
 
 ---
 
-## Exercício 9 – Números Ímpares Entre Dois Valores
+## ▶️ Exercício 9 – Números Ímpares Entre Dois Valores
 
 Modifique o programa do exercício anterior para que ele identifique e exiba todos os números ímpares existentes entre dois valores quaisquer informados pelo usuário.  
 O programa deve ler os dois valores e listar os números ímpares entre eles (inclusive se algum dos extremos for ímpar).
@@ -134,7 +134,7 @@ O programa deve ler os dois valores e listar os números ímpares entre eles (in
 
 ---
 
-## Exercício 10 – Sistema de Cálculo de Gorjeta
+## ▶️ Exercício 10 – Sistema de Cálculo de Gorjeta
 
 Você deve criar um sistema para calcular a gorjeta de um restaurante, utilizando o valor total da conta e a porcentagem de gorjeta a ser aplicada. Porém, o sistema deve incluir uma estrutura de decisão que aplique a seguinte regra:
 
