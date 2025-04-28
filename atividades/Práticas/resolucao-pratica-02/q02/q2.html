@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Lan House Aeroporto</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        input, button { margin: 5px; padding: 8px; }
+    </style>
+
+    <script src="./q2.js" defer></script>
+</head>
+<body>
+    <h1>Lan House</h1>
+    <form onsubmit="calcularValor(event)">
+        <div>
+            <label>Valor a cada 15 min (R$):</label>
+            <input type="number" id="inputValor" step="0.01">
+        </div>
+        <div>
+            <label>Tempo de uso (min):</label>
+            <input type="number" id="inputTempo">
+        </div>
+        <button type="submit">Calcular Valor</button>
+    </form>
+
+    <div id="resultado"></div>
+</body>
+</html>
