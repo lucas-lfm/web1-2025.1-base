@@ -178,7 +178,7 @@ function renderizarProdutos() {
         <th scope="row">${produto.id}</th>
         <td>${produto.nome}</td>
         <td>${produto.categoria}</td>
-        <td>${produto.preco}</td>
+        <td>R$ ${produto.preco.toFixed(2)}</td>
         <td>${produto.avaliacao}</td>
         <td>${produto.descricao}</td>
     </tr>` );
