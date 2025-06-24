@@ -388,3 +388,11 @@ main {
 | Layout igual ao mockup                            | ☐  |
 
 Quando todos os itens estiverem marcados, a prática está concluída.
+
+## 9. Entrega
+
+- O ideal seria a entrega pelo GitHub, mas vamos chegar lá ainda.
+
+- Entreguem pelo Classroom a pasta do projeto compactada para o formato `.zip`.
+
+> 🚨 **Atenção** - Exclua a pasta `node_modules` antes de compactar a pasta do projeto.
